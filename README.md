@@ -1,1 +1,1 @@
-# mis221-composition-lab-cwray2
+# mis221-compositions-lab-cwray2
